@@ -1,2 +1,2 @@
 # sockets-piper-chat
- Web app built using JS, deployed to heroku
+ Chat application built using JS, Deployed to Heroku
